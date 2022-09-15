@@ -26,3 +26,12 @@
     font-size: 1.6rem;
   }
   ```
+
+* the 7-1 pattern:
+  * `base/` basic project definitions
+  * `components/` one file for each component
+  * `layout/` overall layout of the project
+  * `pages/` styles for specific pages
+  * `themes/` when implementing different visual themes
+  * `abstracts/` variables and mixins
+  * `vendors/` third party css
